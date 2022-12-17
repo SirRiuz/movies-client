@@ -1,0 +1,12 @@
+
+
+.card-loader{
+    background-color: #CCCED3;
+    height: 390px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: .7;
+}

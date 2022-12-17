@@ -1,0 +1,37 @@
+
+
+.card-picture-movie{
+    background-color: #c2bebe;
+    height: 390px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#score-container{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    flex-direction: column;
+}
+
+
+
+
+#score-container span {
+    opacity: .8;
+    font-size: 14.5px;
+    font-weight: 600;
+}
+
